@@ -1,0 +1,6 @@
+*.cform filter=lfs diff=lfs merge=lfs -text
+*.hom filter=lfs diff=lfs merge=lfs -text
+*.geom filter=lfs diff=lfs merge=lfs -text
+*.geomx filter=lfs diff=lfs merge=lfs -text
+level filter=lfs diff=lfs merge=lfs -text
+*.dds filter=lfs diff=lfs merge=lfs -text
